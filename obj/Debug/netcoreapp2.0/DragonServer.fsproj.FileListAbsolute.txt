@@ -1,0 +1,8 @@
+/Users/admin/Documents/FSharp/DragonServer/bin/Debug/netcoreapp2.0/DragonServer.deps.json
+/Users/admin/Documents/FSharp/DragonServer/bin/Debug/netcoreapp2.0/DragonServer.runtimeconfig.json
+/Users/admin/Documents/FSharp/DragonServer/bin/Debug/netcoreapp2.0/DragonServer.runtimeconfig.dev.json
+/Users/admin/Documents/FSharp/DragonServer/bin/Debug/netcoreapp2.0/DragonServer.dll
+/Users/admin/Documents/FSharp/DragonServer/bin/Debug/netcoreapp2.0/DragonServer.pdb
+/Users/admin/Documents/FSharp/DragonServer/obj/Debug/netcoreapp2.0/DragonServer.dll
+/Users/admin/Documents/FSharp/DragonServer/obj/Debug/netcoreapp2.0/DragonServer.pdb
+/Users/admin/Documents/FSharp/DragonServer/obj/Debug/netcoreapp2.0/DragonServer.fsprojResolveAssemblyReference.cache

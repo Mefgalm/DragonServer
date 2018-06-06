@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{DB2581D4-4866-4BBE-88EC-AFC581F0CA3A}|Default">
+  <MonoDevelop.Ide.ItemProperties.DragonServer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Startup.fs">
+    <Files>
+      <File FileName="Program.fs" Line="25" Column="9" />
+      <File FileName="Model/Auth.fs" Line="26" Column="13" />
+      <File FileName="Controllers/PunchesController.fs" Line="9" Column="1" />
+      <File FileName="Model/Dragon.fs" Line="140" Column="1" />
+      <File FileName="Controllers/HerosController.fs" Line="30" Column="1" />
+      <File FileName="Controllers/DragonsController.fs" Line="7" Column="31" />
+      <File FileName="Startup.fs" Line="45" Column="19" />
+      <File FileName="Requests/CreatePunchRequest.fs" Line="24" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/admin/Documents/FSharp/DragonServer/Startup.fs" relfile="Startup.fs" line="38" column="1" />
+      <Breakpoint file="/Users/admin/Documents/FSharp/DragonServer/Startup.fs" relfile="Startup.fs" line="36" column="1" />
+      <Breakpoint file="/Users/admin/Documents/FSharp/DragonServer/Startup.fs" relfile="Startup.fs" line="30" column="1" />
+      <Breakpoint file="/Users/admin/Documents/FSharp/DragonServer/Startup.fs" relfile="Startup.fs" line="43" column="13" />
+      <Breakpoint file="/Users/admin/Documents/FSharp/DragonServer/Startup.fs" relfile="Startup.fs" line="59" column="1" />
+      <Breakpoint file="/Users/admin/Documents/FSharp/DragonServer/Startup.fs" relfile="Startup.fs" line="34" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

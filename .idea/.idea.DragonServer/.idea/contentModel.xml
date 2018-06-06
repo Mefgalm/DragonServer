@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="appsettings.Development.json" t="Include" />
+      <e p="appsettings.json" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Controllers" t="Include">
+        <e p="DragonsController.fs" t="Include" />
+        <e p="HerosController.fs" t="Include" />
+        <e p="PunchesController.fs" t="Include" />
+      </e>
+      <e p="DragonServer.fsproj" t="IncludeRecursive" />
+      <e p="DragonServer.sln" t="IncludeFlat" />
+      <e p="Model" t="Include">
+        <e p="Auth.fs" t="Include" />
+        <e p="Crypto.fs" t="Include" />
+        <e p="Dragon.fs" t="Include" />
+        <e p="Types.fs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.fs" t="Include" />
+      <e p="Requests" t="Include">
+        <e p="Requests.fs" t="Include" />
+      </e>
+      <e p="Responses" t="Include">
+        <e p="Responses.fs" t="Include" />
+      </e>
+      <e p="Startup.fs" t="Include" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2017.3/resharper-host/local/Transient/ReSharperHost/v11/SolutionCaches/_DragonServer.-1967839355.00" t="ExcludeRecursive" />
+  </component>
+</project>

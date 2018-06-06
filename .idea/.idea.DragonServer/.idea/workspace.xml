@@ -1,0 +1,1636 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="653532f3-9ca5-489c-b461-d2ea6e2be9b6" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="test: database" type="bdf80c8a:MssqlImplModel$Database" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="test: database" type="bdf80c8a:MssqlImplModel$Database" />
+        <item name="dbo: schema" type="3adcb6a6:MssqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="test: database" type="bdf80c8a:MssqlImplModel$Database" />
+        <item name="dbo: schema" type="3adcb6a6:MssqlImplModel$Schema" />
+        <item name="Users: table" type="a00791b9:MssqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Startup.fs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Startup.fs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="35" column="35" lean-forward="false" selection-start-line="35" selection-start-column="35" selection-end-line="35" selection-end-column="35" />
+              <folding>
+                <marker date="1528187650553" expanded="false" signature="29:654" ph="..." />
+                <marker date="1528187650553" expanded="true" signature="672:2904" ph="private () = ..." />
+                <marker date="1528187650553" expanded="true" signature="692:801" ph=" (configuration: IConfiguration) as this = ..." />
+                <marker date="1528187650553" expanded="true" signature="963:2384" ph=" = ..." />
+                <marker date="1528187650553" expanded="true" signature="1698:2177" ph=" -&gt; ..." />
+                <marker date="1528187650553" expanded="true" signature="2566:2850" ph=" = ..." />
+                <marker date="1528187650553" expanded="true" signature="2725:2839" ph=" -&gt; ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Auth.fs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Model/Auth.fs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="884">
+              <caret line="56" column="12" lean-forward="false" selection-start-line="56" selection-start-column="12" selection-end-line="56" selection-end-column="12" />
+              <folding>
+                <marker date="1528191859558" expanded="true" signature="49:2399" ph=" = ..." />
+                <marker date="1528191859558" expanded="false" signature="65:221" ph="..." />
+                <marker date="1528191859558" expanded="true" signature="245:568" ph="= {                             ..." />
+                <marker date="1528191859558" expanded="true" signature="601:681" ph="= { ..." />
+                <marker date="1528191859558" expanded="true" signature="731:1160" ph=" = ..." />
+                <marker date="1528191859558" expanded="true" signature="796:1159" ph="tokenInfo.issuer,  ..." />
+                <marker date="1528191859558" expanded="true" signature="1270:1753" ph=" = ..." />
+                <marker date="1528191859558" expanded="true" signature="1336:1752" ph="tokenInfo.issuer,  ..." />
+                <marker date="1528191859558" expanded="true" signature="1828:2399" ph=" = ..." />
+                <marker date="1528191859558" expanded="true" signature="1939:2399" ph=" ..." />
+                <marker date="1528191859558" expanded="true" signature="1960:2204" ph=" -&gt; { ..." />
+                <marker date="1528191859558" expanded="true" signature="2223:2399" ph=" -&gt;   { ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Dragon.fs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Model/Dragon.fs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="474">
+              <caret line="203" column="4" lean-forward="false" selection-start-line="203" selection-start-column="4" selection-end-line="203" selection-end-column="4" />
+              <folding>
+                <marker date="1528272228130" expanded="true" signature="0:113" ph="// Learn more about F## at http://fsharp.org ..." />
+                <marker date="1528272228130" expanded="true" signature="157:17382" ph=" =  ..." />
+                <marker date="1528272228130" expanded="true" signature="170:311" ph="..." />
+                <marker date="1528272228130" expanded="true" signature="349:513" ph=" = ..." />
+                <marker date="1528272228130" expanded="true" signature="377:513" ph="  ..." />
+                <marker date="1528272228130" expanded="true" signature="547:626" ph=" = ..." />
+                <marker date="1528272228130" expanded="true" signature="575:626" ph=" ..." />
+                <marker date="1528272228130" expanded="true" signature="650:725" ph=" =  ..." />
+                <marker date="1528272228130" expanded="true" signature="675:725" ph=" ..." />
+                <marker date="1528272228130" expanded="true" signature="811:851" ph="=  ..." />
+                <marker date="1528272228130" expanded="true" signature="879:1045" ph=" =  ..." />
+                <marker date="1528272228130" expanded="true" signature="912:1045" ph=" =  ..." />
+                <marker date="1528272228130" expanded="true" signature="945:1045" ph=" ..." />
+                <marker date="1528272228130" expanded="true" signature="1071:1937" ph=" =  ..." />
+                <marker date="1528272228130" expanded="true" signature="1388:1499" ph=" =  ..." />
+                <marker date="1528272228130" expanded="true" signature="1409:1498" ph="  ..." />
+                <marker date="1528272228130" expanded="true" signature="1427:1485" ph="for i in fromRange..toRange do ..." />
+                <marker date="1528272228130" expanded="true" signature="1541:1937" ph=" =  ..." />
+                <marker date="1528272228130" expanded="true" signature="1566:1691" ph=" =  ..." />
+                <marker date="1528272228130" expanded="true" signature="1760:1872" ph="  ..." />
+                <marker date="1528272228130" expanded="true" signature="1778:1859" ph="for i in 0..length do ..." />
+                <marker date="1528272228130" expanded="true" signature="1987:2711" ph="name : string, passwordHash: byte[], passwordSalt: byte[], attackModifier : int) =  ..." />
+                <marker date="1528272228130" expanded="true" signature="2171:2214" ph=" with ..." />
+                <marker date="1528272228130" expanded="true" signature="2487:2565" ph="  ..." />
+                <marker date="1528272228130" expanded="true" signature="2607:2711" ph=" =  ..." />
+                <marker date="1528272228130" expanded="true" signature="2757:3329" ph="attack : int, heroId : Guid, dragonId : Guid) =  ..." />
+                <marker date="1528272228130" expanded="true" signature="2964:3007" ph=" with ..." />
+                <marker date="1528272228130" expanded="true" signature="3215:3329" ph=" =  ..." />
+                <marker date="1528272228130" expanded="true" signature="3376:3849" ph="name : string, maxHitpoints : int) =  ..." />
+                <marker date="1528272228130" expanded="true" signature="3547:3590" ph=" with ..." />
+                <marker date="1528272228130" expanded="true" signature="3879:4134" ph="when 'T :&gt; IEntity&gt; =  ..." />
+                <marker date="1528272228130" expanded="true" signature="4167:5586" ph="when 'T :&gt; IEntity&gt;() =  ..." />
+                <marker date="1528272228130" expanded="true" signature="4328:4438" ph=" =  ..." />
+                <marker date="1528272228130" expanded="true" signature="4597:5066" ph=" with ..." />
+                <marker date="1528272228130" expanded="true" signature="5616:5659" ph=") =  ..." />
+                <marker date="1528272228130" expanded="true" signature="5690:5734" ph=") =  ..." />
+                <marker date="1528272228130" expanded="true" signature="5766:5811" ph=") =  ..." />
+                <marker date="1528272228130" expanded="true" signature="5837:6165" ph=") =  ..." />
+                <marker date="1528272228130" expanded="true" signature="6219:6324" ph="=  ..." />
+                <marker date="1528272228130" expanded="true" signature="6230:6324" ph="{ id : Guid ..." />
+                <marker date="1528272228130" expanded="true" signature="6349:6477" ph="=  ..." />
+                <marker date="1528272228130" expanded="true" signature="6360:6477" ph="{ id : Guid ..." />
+                <marker date="1528272228130" expanded="true" signature="6515:6715" ph="=          ..." />
+                <marker date="1528272228130" expanded="true" signature="6754:6848" ph="=  ..." />
+                <marker date="1528272228130" expanded="true" signature="6888:7160" ph="=  ..." />
+                <marker date="1528272228130" expanded="true" signature="7198:7378" ph="=  ..." />
+                <marker date="1528272228130" expanded="true" signature="7407:7476" ph="=  ..." />
+                <marker date="1528272228130" expanded="true" signature="7506:7813" ph="=  ..." />
+                <marker date="1528272228130" expanded="true" signature="7840:9593" ph="heroServiceRepository : IHeroServiceRepository) =                  ..." />
+                <marker date="1528272228130" expanded="true" signature="7937:9593" ph=" with ..." />
+                <marker date="1528272228130" expanded="true" signature="8008:9391" ph=" = ..." />
+                <marker date="1528272228130" expanded="true" signature="8278:8545" ph=" =                     ..." />
+                <marker date="1528272228130" expanded="true" signature="8625:8914" ph=" =  ..." />
+                <marker date="1528272228130" expanded="true" signature="8702:8914" ph=" (new Hero(createHero.name,  ..." />
+                <marker date="1528272228130" expanded="true" signature="8976:9216" ph=" = ..." />
+                <marker date="1528272228130" expanded="true" signature="9082:9216" ph=" ..." />
+                <marker date="1528272228130" expanded="true" signature="9522:9593" ph=" =  ..." />
+                <marker date="1528272228130" expanded="true" signature="9621:10194" ph="punchServiceRepository : IPunchServiceRepository) =  ..." />
+                <marker date="1528272228130" expanded="true" signature="9705:10194" ph=" with ..." />
+                <marker date="1528272228130" expanded="true" signature="9765:10194" ph=" =  ..." />
+                <marker date="1528272228130" expanded="true" signature="9884:10194" ph=" ..." />
+                <marker date="1528272228130" expanded="true" signature="9959:10194" ph=" -&gt;  ..." />
+                <marker date="1528272228130" expanded="true" signature="10223:10938" ph="dragonServiceRepository : IDragonServiceRepository) =  ..." />
+                <marker date="1528272228130" expanded="true" signature="10310:10938" ph=" with ..." />
+                <marker date="1528272228130" expanded="true" signature="10352:10504" ph=" =  ..." />
+                <marker date="1528272228130" expanded="true" signature="10721:10809" ph=" =  ..." />
+                <marker date="1528272228130" expanded="true" signature="10861:10938" ph=" =  ..." />
+                <marker date="1528272228130" expanded="true" signature="10975:12071" ph="unitOfWork : UnitOfWork) =  ..." />
+                <marker date="1528272228130" expanded="true" signature="11080:12071" ph=" with ..." />
+                <marker date="1528272228130" expanded="true" signature="11138:11217" ph=" =  ..." />
+                <marker date="1528272228130" expanded="true" signature="11457:12071" ph=" =  ..." />
+                <marker date="1528272228130" expanded="true" signature="11484:12040" ph="  ..." />
+                <marker date="1528272228130" expanded="true" signature="11506:12023" ph="for punch in _unitOfWork.PunchRepository.All do ..." />
+                <marker date="1528272228130" expanded="true" signature="11833:12023" ph=" ({ id = punch.Id ..." />
+                <marker date="1528272228130" expanded="true" signature="12109:12485" ph="unitOfWork : UnitOfWork) =  ..." />
+                <marker date="1528272228130" expanded="true" signature="12215:12485" ph=" with ..." />
+                <marker date="1528272228130" expanded="true" signature="12275:12357" ph=" =  ..." />
+                <marker date="1528272228130" expanded="true" signature="12524:17382" ph="unitOfWork : UnitOfWork) =  ..." />
+                <marker date="1528272228130" expanded="true" signature="12631:17382" ph=" with ..." />
+                <marker date="1528272228130" expanded="true" signature="12693:12778" ph=" =  ..." />
+                <marker date="1528272228130" expanded="true" signature="12843:13461" ph=" =  ..." />
+                <marker date="1528272228130" expanded="true" signature="12870:13430" ph="  ..." />
+                <marker date="1528272228130" expanded="true" signature="12892:13413" ph="for punch in _unitOfWork.PunchRepository.All do ..." />
+                <marker date="1528272228130" expanded="true" signature="13223:13413" ph=" ({ id = punch.Id ..." />
+                <marker date="1528272228130" expanded="true" signature="13511:14745" ph=" =  ..." />
+                <marker date="1528272228130" expanded="true" signature="13538:14713" ph="  ..." />
+                <marker date="1528272228130" expanded="true" signature="13560:14696" ph="for dragon in unitOfWork.DragonRepository.All do ..." />
+                <marker date="1528272228130" expanded="true" signature="13807:14696" ph="for punch in _punch do ..." />
+                <marker date="1528272228130" expanded="true" signature="13986:14282" ph=" =  ..." />
+                <marker date="1528272228130" expanded="true" signature="14421:14696" ph=" ({ id = gd.Key.Id ..." />
+                <marker date="1528272228130" expanded="true" signature="14790:15966" ph=" =  ..." />
+                <marker date="1528272228130" expanded="true" signature="14817:15935" ph="  ..." />
+                <marker date="1528272228130" expanded="true" signature="14839:15918" ph="for dragon in unitOfWork.DragonRepository.All do ..." />
+                <marker date="1528272228130" expanded="true" signature="15086:15918" ph="for punch in _punch do ..." />
+                <marker date="1528272228130" expanded="true" signature="15208:15504" ph=" =  ..." />
+                <marker date="1528272228130" expanded="true" signature="15643:15918" ph=" ({ id = gd.Key.Id ..." />
+                <marker date="1528272228130" expanded="true" signature="16042:17382" ph=" =  ..." />
+                <marker date="1528272228130" expanded="true" signature="16069:17351" ph="  ..." />
+                <marker date="1528272228130" expanded="true" signature="16091:17334" ph="for dragon in unitOfWork.DragonRepository.All do ..." />
+                <marker date="1528272228130" expanded="true" signature="16338:17334" ph="for punch in _punch do ..." />
+                <marker date="1528272228130" expanded="true" signature="16460:16756" ph=" =  ..." />
+                <marker date="1528272228130" expanded="true" signature="17065:17334" ph=" ({ id = gd.Key.Id ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Crypto.fs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Model/Crypto.fs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="116" lean-forward="false" selection-start-line="12" selection-start-column="116" selection-end-line="12" selection-end-column="116" />
+              <folding>
+                <marker date="1528185861704" expanded="true" signature="43:427" ph=" =  ..." />
+                <marker date="1528185861704" expanded="true" signature="56:141" ph="..." />
+                <marker date="1528185861704" expanded="true" signature="167:305" ph=" =  ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HerosController.fs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Controllers/HerosController.fs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="29" column="14" lean-forward="false" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
+              <folding>
+                <marker date="1528183555650" expanded="false" signature="41:212" ph="..." />
+                <marker date="1528183555650" expanded="true" signature="365:395" ph=" = ..." />
+                <marker date="1528183555650" expanded="true" signature="491:530" ph=" = ..." />
+                <marker date="1528183555650" expanded="true" signature="606:648" ph=" = ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Requests.fs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Requests/Requests.fs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="20" column="1" lean-forward="false" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+              <folding>
+                <marker date="1528271933688" expanded="false" signature="38:104" ph="..." />
+                <marker date="1528271933688" expanded="true" signature="130:171" ph="= { ..." />
+                <marker date="1528271933688" expanded="true" signature="196:267" ph="= { ..." />
+                <marker date="1528271933688" expanded="true" signature="291:334" ph="= { ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Responses.fs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Responses/Responses.fs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="22" lean-forward="false" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="22" />
+              <folding>
+                <marker date="1528272146870" expanded="true" signature="69:114" ph="= { ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Types.fs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Model/Types.fs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="8" lean-forward="false" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+              <folding>
+                <marker date="1528192286057" expanded="true" signature="46:90" ph=" =  ..." />
+                <marker date="1528192286057" expanded="true" signature="54:90" ph="| Ok of 'a ..." />
+                <marker date="1528192286057" expanded="true" signature="107:369" ph=" =  ..." />
+                <marker date="1528192286057" expanded="true" signature="122:153" ph="=  ..." />
+                <marker date="1528192286057" expanded="true" signature="189:333" ph=" =  ..." />
+                <marker date="1528192286057" expanded="true" signature="280:333" ph=" then None ..." />
+                <marker date="1528192286057" expanded="true" signature="405:440" ph="=  ..." />
+                <marker date="1528192286057" expanded="true" signature="476:615" ph=" =  ..." />
+                <marker date="1528192286057" expanded="true" signature="559:615" ph=" then None ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="appsettings.Development.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/appsettings.Development.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PunchesController.fs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Controllers/PunchesController.fs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="19" column="3" lean-forward="false" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+              <folding>
+                <marker date="1526817544525" expanded="false" signature="41:212" ph="..." />
+                <marker date="1526817544525" expanded="true" signature="268:485" ph="(punchService : IPunchService) = ..." />
+                <marker date="1526817544525" expanded="true" signature="431:485" ph=" = ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>DragonServiceRepository</find>
+      <find>IPunchServiceRepository</find>
+      <find>Find</find>
+      <find>IHeroServiceRepository</find>
+      <find>CreateHero</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Controllers/PunchesController.fs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Requests/Requests.fs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Model/Types.fs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Program.fs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Model/Dragon.fs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/53941A9F-5A70-4687-9000-8A2F1A6AC6A6/87/df0b55df/JwtBearerDefaults.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Model/Auth.fs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Model/Crypto.fs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Startup.fs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/59964CAE-904C-F4DA-A745-0383AE4C9659/56/06224073/Operators.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/899ABC88-C3F1-4C7D-B7BA-444AD3BDFC76/27/e15c06eb/ExecutionContextSwitcher.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Controllers/DragonsController.fs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Responses/Responses.fs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Controllers/HerosController.fs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/882C7DDC-3607-4EF5-A584-61262F32B442/74/166f4fa9/MvcOptions.cs" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Controllers/HeroController.cs" />
+        <option value="$PROJECT_DIR$/Controllers/HeroController.fs" />
+        <option value="$PROJECT_DIR$/Controllers/PunchesController.fs" />
+        <option value="$PROJECT_DIR$/Controllers/DragonsController.fs" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/70b50e06-bda0-4eee-95db-003d197cf253/console.sql" />
+        <option value="$PROJECT_DIR$/Requests/CreateHeroRequest.fs" />
+        <option value="$PROJECT_DIR$/Requests/CreatePunchRequest.fs" />
+        <option value="$PROJECT_DIR$/Controllers/HerosController.fs" />
+        <option value="$PROJECT_DIR$/Model/Type.fs" />
+        <option value="$PROJECT_DIR$/Model/Crypto.fs" />
+        <option value="$PROJECT_DIR$/Startup.fs" />
+        <option value="$PROJECT_DIR$/Model/Auth.fs" />
+        <option value="$PROJECT_DIR$/Model/Types.fs" />
+        <option value="$PROJECT_DIR$/Requests/Requests.fs" />
+        <option value="$PROJECT_DIR$/Responses/Responses.fs" />
+        <option value="$PROJECT_DIR$/Model/Dragon.fs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="718" />
+    <option name="y" value="306" />
+    <option name="width" value="1440" />
+    <option name="height" value="805" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="DragonServer (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="DragonServer (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="DragonServer" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="DragonServer (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="DragonServer" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Model" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="DragonServer (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="DragonServer" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Responses" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="SQL Server (Microsoft)" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/bin/Debug/netcoreapp2.0/DragonServer.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/DragonServer.fsproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.0" />
+      <browser url="http://localhost:5000" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="653532f3-9ca5-489c-b461-d2ea6e2be9b6" name="Default" comment="" />
+      <created>1526323331506</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1526323331506</updated>
+      <workItem from="1526323333361" duration="905000" />
+      <workItem from="1526375690833" duration="11000" />
+      <workItem from="1526392345971" duration="3482000" />
+      <workItem from="1526404318338" duration="4443000" />
+      <workItem from="1526457290573" duration="2126000" />
+      <workItem from="1526464307063" duration="9778000" />
+      <workItem from="1526646450356" duration="1827000" />
+      <workItem from="1526744001890" duration="5460000" />
+      <workItem from="1526928560858" duration="2703000" />
+      <workItem from="1526978899745" duration="648000" />
+      <workItem from="1527241869342" duration="5000" />
+      <workItem from="1527243387882" duration="5760000" />
+      <workItem from="1527537726438" duration="3786000" />
+      <workItem from="1527583036024" duration="40000" />
+      <workItem from="1527620136106" duration="8000" />
+      <workItem from="1527622073437" duration="374000" />
+      <workItem from="1527707134851" duration="45000" />
+      <workItem from="1528118473300" duration="320000" />
+      <workItem from="1528182997845" duration="8915000" />
+      <workItem from="1528271808497" duration="1423000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="52059000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="2560" height="1345" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921347" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5775281" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11397935" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18943606" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3128" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32881084" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280899" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="16" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/appsettings.Development.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/70b50e06-bda0-4eee-95db-003d197cf253/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Requests/Requests.fs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Program.fs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Model/Dragon.fs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4029">
+          <caret line="237" column="59" lean-forward="true" selection-start-line="237" selection-start-column="59" selection-end-line="237" selection-end-column="59" />
+          <folding>
+            <marker date="1528272228130" expanded="true" signature="0:113" ph="// Learn more about F## at http://fsharp.org ..." />
+            <marker date="1528272228130" expanded="true" signature="157:17382" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="170:311" ph="..." />
+            <marker date="1528272228130" expanded="true" signature="349:513" ph=" = ..." />
+            <marker date="1528272228130" expanded="true" signature="377:513" ph="  ..." />
+            <marker date="1528272228130" expanded="true" signature="547:626" ph=" = ..." />
+            <marker date="1528272228130" expanded="true" signature="575:626" ph=" ..." />
+            <marker date="1528272228130" expanded="true" signature="650:725" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="675:725" ph=" ..." />
+            <marker date="1528272228130" expanded="true" signature="811:851" ph="=  ..." />
+            <marker date="1528272228130" expanded="true" signature="879:1045" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="912:1045" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="945:1045" ph=" ..." />
+            <marker date="1528272228130" expanded="true" signature="1071:1937" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="1388:1499" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="1409:1498" ph="  ..." />
+            <marker date="1528272228130" expanded="true" signature="1427:1485" ph="for i in fromRange..toRange do ..." />
+            <marker date="1528272228130" expanded="true" signature="1541:1937" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="1566:1691" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="1760:1872" ph="  ..." />
+            <marker date="1528272228130" expanded="true" signature="1778:1859" ph="for i in 0..length do ..." />
+            <marker date="1528272228130" expanded="true" signature="1987:2711" ph="name : string, passwordHash: byte[], passwordSalt: byte[], attackModifier : int) =  ..." />
+            <marker date="1528272228130" expanded="true" signature="2171:2214" ph=" with ..." />
+            <marker date="1528272228130" expanded="true" signature="2487:2565" ph="  ..." />
+            <marker date="1528272228130" expanded="true" signature="2607:2711" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="2757:3329" ph="attack : int, heroId : Guid, dragonId : Guid) =  ..." />
+            <marker date="1528272228130" expanded="true" signature="2964:3007" ph=" with ..." />
+            <marker date="1528272228130" expanded="true" signature="3215:3329" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="3376:3849" ph="name : string, maxHitpoints : int) =  ..." />
+            <marker date="1528272228130" expanded="true" signature="3547:3590" ph=" with ..." />
+            <marker date="1528272228130" expanded="true" signature="3879:4134" ph="when 'T :&gt; IEntity&gt; =  ..." />
+            <marker date="1528272228130" expanded="true" signature="4167:5586" ph="when 'T :&gt; IEntity&gt;() =  ..." />
+            <marker date="1528272228130" expanded="true" signature="4328:4438" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="4597:5066" ph=" with ..." />
+            <marker date="1528272228130" expanded="true" signature="5616:5659" ph=") =  ..." />
+            <marker date="1528272228130" expanded="true" signature="5690:5734" ph=") =  ..." />
+            <marker date="1528272228130" expanded="true" signature="5766:5811" ph=") =  ..." />
+            <marker date="1528272228130" expanded="true" signature="5837:6165" ph=") =  ..." />
+            <marker date="1528272228130" expanded="true" signature="6219:6324" ph="=  ..." />
+            <marker date="1528272228130" expanded="true" signature="6230:6324" ph="{ id : Guid ..." />
+            <marker date="1528272228130" expanded="true" signature="6349:6477" ph="=  ..." />
+            <marker date="1528272228130" expanded="true" signature="6360:6477" ph="{ id : Guid ..." />
+            <marker date="1528272228130" expanded="true" signature="6515:6715" ph="=          ..." />
+            <marker date="1528272228130" expanded="true" signature="6754:6848" ph="=  ..." />
+            <marker date="1528272228130" expanded="true" signature="6888:7160" ph="=  ..." />
+            <marker date="1528272228130" expanded="true" signature="7198:7378" ph="=  ..." />
+            <marker date="1528272228130" expanded="true" signature="7407:7476" ph="=  ..." />
+            <marker date="1528272228130" expanded="true" signature="7506:7813" ph="=  ..." />
+            <marker date="1528272228130" expanded="true" signature="7840:9593" ph="heroServiceRepository : IHeroServiceRepository) =                  ..." />
+            <marker date="1528272228130" expanded="true" signature="7937:9593" ph=" with ..." />
+            <marker date="1528272228130" expanded="true" signature="8008:9391" ph=" = ..." />
+            <marker date="1528272228130" expanded="true" signature="8278:8545" ph=" =                     ..." />
+            <marker date="1528272228130" expanded="true" signature="8625:8914" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="8702:8914" ph=" (new Hero(createHero.name,  ..." />
+            <marker date="1528272228130" expanded="true" signature="8976:9216" ph=" = ..." />
+            <marker date="1528272228130" expanded="true" signature="9082:9216" ph=" ..." />
+            <marker date="1528272228130" expanded="true" signature="9522:9593" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="9621:10194" ph="punchServiceRepository : IPunchServiceRepository) =  ..." />
+            <marker date="1528272228130" expanded="true" signature="9705:10194" ph=" with ..." />
+            <marker date="1528272228130" expanded="true" signature="9765:10194" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="9884:10194" ph=" ..." />
+            <marker date="1528272228130" expanded="true" signature="9959:10194" ph=" -&gt;  ..." />
+            <marker date="1528272228130" expanded="true" signature="10223:10938" ph="dragonServiceRepository : IDragonServiceRepository) =  ..." />
+            <marker date="1528272228130" expanded="true" signature="10310:10938" ph=" with ..." />
+            <marker date="1528272228130" expanded="true" signature="10352:10504" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="10721:10809" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="10861:10938" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="10975:12071" ph="unitOfWork : UnitOfWork) =  ..." />
+            <marker date="1528272228130" expanded="true" signature="11080:12071" ph=" with ..." />
+            <marker date="1528272228130" expanded="true" signature="11138:11217" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="11457:12071" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="11484:12040" ph="  ..." />
+            <marker date="1528272228130" expanded="true" signature="11506:12023" ph="for punch in _unitOfWork.PunchRepository.All do ..." />
+            <marker date="1528272228130" expanded="true" signature="11833:12023" ph=" ({ id = punch.Id ..." />
+            <marker date="1528272228130" expanded="true" signature="12109:12485" ph="unitOfWork : UnitOfWork) =  ..." />
+            <marker date="1528272228130" expanded="true" signature="12215:12485" ph=" with ..." />
+            <marker date="1528272228130" expanded="true" signature="12275:12357" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="12524:17382" ph="unitOfWork : UnitOfWork) =  ..." />
+            <marker date="1528272228130" expanded="true" signature="12631:17382" ph=" with ..." />
+            <marker date="1528272228130" expanded="true" signature="12693:12778" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="12843:13461" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="12870:13430" ph="  ..." />
+            <marker date="1528272228130" expanded="true" signature="12892:13413" ph="for punch in _unitOfWork.PunchRepository.All do ..." />
+            <marker date="1528272228130" expanded="true" signature="13223:13413" ph=" ({ id = punch.Id ..." />
+            <marker date="1528272228130" expanded="true" signature="13511:14745" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="13538:14713" ph="  ..." />
+            <marker date="1528272228130" expanded="true" signature="13560:14696" ph="for dragon in unitOfWork.DragonRepository.All do ..." />
+            <marker date="1528272228130" expanded="true" signature="13807:14696" ph="for punch in _punch do ..." />
+            <marker date="1528272228130" expanded="true" signature="13986:14282" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="14421:14696" ph=" ({ id = gd.Key.Id ..." />
+            <marker date="1528272228130" expanded="true" signature="14790:15966" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="14817:15935" ph="  ..." />
+            <marker date="1528272228130" expanded="true" signature="14839:15918" ph="for dragon in unitOfWork.DragonRepository.All do ..." />
+            <marker date="1528272228130" expanded="true" signature="15086:15918" ph="for punch in _punch do ..." />
+            <marker date="1528272228130" expanded="true" signature="15208:15504" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="15643:15918" ph=" ({ id = gd.Key.Id ..." />
+            <marker date="1528272228130" expanded="true" signature="16042:17382" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="16069:17351" ph="  ..." />
+            <marker date="1528272228130" expanded="true" signature="16091:17334" ph="for dragon in unitOfWork.DragonRepository.All do ..." />
+            <marker date="1528272228130" expanded="true" signature="16338:17334" ph="for punch in _punch do ..." />
+            <marker date="1528272228130" expanded="true" signature="16460:16756" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="17065:17334" ph=" ({ id = gd.Key.Id ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Startup.fs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding>
+            <marker date="1528187650553" expanded="false" signature="29:654" ph="..." />
+            <marker date="1528187650553" expanded="true" signature="672:2904" ph="private () = ..." />
+            <marker date="1528187650553" expanded="true" signature="692:801" ph=" (configuration: IConfiguration) as this = ..." />
+            <marker date="1528187650553" expanded="true" signature="963:2384" ph=" = ..." />
+            <marker date="1528187650553" expanded="true" signature="1698:2177" ph=" -&gt; ..." />
+            <marker date="1528187650553" expanded="true" signature="2566:2850" ph=" = ..." />
+            <marker date="1528187650553" expanded="true" signature="2725:2839" ph=" -&gt; ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Controllers/HerosController.fs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="24" column="39" lean-forward="false" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
+          <folding>
+            <marker date="1528183555650" expanded="false" signature="41:212" ph="..." />
+            <marker date="1528183555650" expanded="true" signature="365:395" ph=" = ..." />
+            <marker date="1528183555650" expanded="true" signature="491:530" ph=" = ..." />
+            <marker date="1528183555650" expanded="true" signature="606:648" ph=" = ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Controllers/DragonsController.fs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="28" column="8" lean-forward="false" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
+          <folding>
+            <marker date="1526817541968" expanded="false" signature="41:185" ph="..." />
+            <marker date="1526817541968" expanded="true" signature="241:841" ph="(dragonService : IDragonService) = ..." />
+            <marker date="1526817541968" expanded="true" signature="343:375" ph=" = ..." />
+            <marker date="1526817541968" expanded="true" signature="430:467" ph=" = ..." />
+            <marker date="1526817541968" expanded="true" signature="534:569" ph=" =     ..." />
+            <marker date="1526817541968" expanded="true" signature="656:719" ph=" = ..." />
+            <marker date="1526817541968" expanded="true" signature="795:841" ph=" = ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Controllers/PunchesController.fs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="12" column="44" lean-forward="false" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+          <folding>
+            <marker date="1526817544525" expanded="false" signature="41:212" ph="..." />
+            <marker date="1526817544525" expanded="true" signature="268:485" ph="(punchService : IPunchService) = ..." />
+            <marker date="1526817544525" expanded="true" signature="431:485" ph=" = ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/70b50e06-bda0-4eee-95db-003d197cf253/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Requests/Requests.fs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Program.fs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Model/Dragon.fs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6545">
+          <caret line="386" column="62" lean-forward="true" selection-start-line="386" selection-start-column="62" selection-end-line="386" selection-end-column="62" />
+          <folding>
+            <marker date="1528272228130" expanded="true" signature="0:113" ph="// Learn more about F## at http://fsharp.org ..." />
+            <marker date="1528272228130" expanded="true" signature="157:17382" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="170:311" ph="..." />
+            <marker date="1528272228130" expanded="true" signature="349:513" ph=" = ..." />
+            <marker date="1528272228130" expanded="true" signature="377:513" ph="  ..." />
+            <marker date="1528272228130" expanded="true" signature="547:626" ph=" = ..." />
+            <marker date="1528272228130" expanded="true" signature="575:626" ph=" ..." />
+            <marker date="1528272228130" expanded="true" signature="650:725" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="675:725" ph=" ..." />
+            <marker date="1528272228130" expanded="true" signature="811:851" ph="=  ..." />
+            <marker date="1528272228130" expanded="true" signature="879:1045" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="912:1045" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="945:1045" ph=" ..." />
+            <marker date="1528272228130" expanded="true" signature="1071:1937" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="1388:1499" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="1409:1498" ph="  ..." />
+            <marker date="1528272228130" expanded="true" signature="1427:1485" ph="for i in fromRange..toRange do ..." />
+            <marker date="1528272228130" expanded="true" signature="1541:1937" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="1566:1691" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="1760:1872" ph="  ..." />
+            <marker date="1528272228130" expanded="true" signature="1778:1859" ph="for i in 0..length do ..." />
+            <marker date="1528272228130" expanded="true" signature="1987:2711" ph="name : string, passwordHash: byte[], passwordSalt: byte[], attackModifier : int) =  ..." />
+            <marker date="1528272228130" expanded="true" signature="2171:2214" ph=" with ..." />
+            <marker date="1528272228130" expanded="true" signature="2487:2565" ph="  ..." />
+            <marker date="1528272228130" expanded="true" signature="2607:2711" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="2757:3329" ph="attack : int, heroId : Guid, dragonId : Guid) =  ..." />
+            <marker date="1528272228130" expanded="true" signature="2964:3007" ph=" with ..." />
+            <marker date="1528272228130" expanded="true" signature="3215:3329" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="3376:3849" ph="name : string, maxHitpoints : int) =  ..." />
+            <marker date="1528272228130" expanded="true" signature="3547:3590" ph=" with ..." />
+            <marker date="1528272228130" expanded="true" signature="3879:4134" ph="when 'T :&gt; IEntity&gt; =  ..." />
+            <marker date="1528272228130" expanded="true" signature="4167:5586" ph="when 'T :&gt; IEntity&gt;() =  ..." />
+            <marker date="1528272228130" expanded="true" signature="4328:4438" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="4597:5066" ph=" with ..." />
+            <marker date="1528272228130" expanded="true" signature="5616:5659" ph=") =  ..." />
+            <marker date="1528272228130" expanded="true" signature="5690:5734" ph=") =  ..." />
+            <marker date="1528272228130" expanded="true" signature="5766:5811" ph=") =  ..." />
+            <marker date="1528272228130" expanded="true" signature="5837:6165" ph=") =  ..." />
+            <marker date="1528272228130" expanded="true" signature="6219:6324" ph="=  ..." />
+            <marker date="1528272228130" expanded="true" signature="6230:6324" ph="{ id : Guid ..." />
+            <marker date="1528272228130" expanded="true" signature="6349:6477" ph="=  ..." />
+            <marker date="1528272228130" expanded="true" signature="6360:6477" ph="{ id : Guid ..." />
+            <marker date="1528272228130" expanded="true" signature="6515:6715" ph="=          ..." />
+            <marker date="1528272228130" expanded="true" signature="6754:6848" ph="=  ..." />
+            <marker date="1528272228130" expanded="true" signature="6888:7160" ph="=  ..." />
+            <marker date="1528272228130" expanded="true" signature="7198:7378" ph="=  ..." />
+            <marker date="1528272228130" expanded="true" signature="7407:7476" ph="=  ..." />
+            <marker date="1528272228130" expanded="true" signature="7506:7813" ph="=  ..." />
+            <marker date="1528272228130" expanded="true" signature="7840:9593" ph="heroServiceRepository : IHeroServiceRepository) =                  ..." />
+            <marker date="1528272228130" expanded="true" signature="7937:9593" ph=" with ..." />
+            <marker date="1528272228130" expanded="true" signature="8008:9391" ph=" = ..." />
+            <marker date="1528272228130" expanded="true" signature="8278:8545" ph=" =                     ..." />
+            <marker date="1528272228130" expanded="true" signature="8625:8914" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="8702:8914" ph=" (new Hero(createHero.name,  ..." />
+            <marker date="1528272228130" expanded="true" signature="8976:9216" ph=" = ..." />
+            <marker date="1528272228130" expanded="true" signature="9082:9216" ph=" ..." />
+            <marker date="1528272228130" expanded="true" signature="9522:9593" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="9621:10194" ph="punchServiceRepository : IPunchServiceRepository) =  ..." />
+            <marker date="1528272228130" expanded="true" signature="9705:10194" ph=" with ..." />
+            <marker date="1528272228130" expanded="true" signature="9765:10194" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="9884:10194" ph=" ..." />
+            <marker date="1528272228130" expanded="true" signature="9959:10194" ph=" -&gt;  ..." />
+            <marker date="1528272228130" expanded="true" signature="10223:10938" ph="dragonServiceRepository : IDragonServiceRepository) =  ..." />
+            <marker date="1528272228130" expanded="true" signature="10310:10938" ph=" with ..." />
+            <marker date="1528272228130" expanded="true" signature="10352:10504" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="10721:10809" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="10861:10938" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="10975:12071" ph="unitOfWork : UnitOfWork) =  ..." />
+            <marker date="1528272228130" expanded="true" signature="11080:12071" ph=" with ..." />
+            <marker date="1528272228130" expanded="true" signature="11138:11217" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="11457:12071" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="11484:12040" ph="  ..." />
+            <marker date="1528272228130" expanded="true" signature="11506:12023" ph="for punch in _unitOfWork.PunchRepository.All do ..." />
+            <marker date="1528272228130" expanded="true" signature="11833:12023" ph=" ({ id = punch.Id ..." />
+            <marker date="1528272228130" expanded="true" signature="12109:12485" ph="unitOfWork : UnitOfWork) =  ..." />
+            <marker date="1528272228130" expanded="true" signature="12215:12485" ph=" with ..." />
+            <marker date="1528272228130" expanded="true" signature="12275:12357" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="12524:17382" ph="unitOfWork : UnitOfWork) =  ..." />
+            <marker date="1528272228130" expanded="true" signature="12631:17382" ph=" with ..." />
+            <marker date="1528272228130" expanded="true" signature="12693:12778" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="12843:13461" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="12870:13430" ph="  ..." />
+            <marker date="1528272228130" expanded="true" signature="12892:13413" ph="for punch in _unitOfWork.PunchRepository.All do ..." />
+            <marker date="1528272228130" expanded="true" signature="13223:13413" ph=" ({ id = punch.Id ..." />
+            <marker date="1528272228130" expanded="true" signature="13511:14745" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="13538:14713" ph="  ..." />
+            <marker date="1528272228130" expanded="true" signature="13560:14696" ph="for dragon in unitOfWork.DragonRepository.All do ..." />
+            <marker date="1528272228130" expanded="true" signature="13807:14696" ph="for punch in _punch do ..." />
+            <marker date="1528272228130" expanded="true" signature="13986:14282" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="14421:14696" ph=" ({ id = gd.Key.Id ..." />
+            <marker date="1528272228130" expanded="true" signature="14790:15966" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="14817:15935" ph="  ..." />
+            <marker date="1528272228130" expanded="true" signature="14839:15918" ph="for dragon in unitOfWork.DragonRepository.All do ..." />
+            <marker date="1528272228130" expanded="true" signature="15086:15918" ph="for punch in _punch do ..." />
+            <marker date="1528272228130" expanded="true" signature="15208:15504" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="15643:15918" ph=" ({ id = gd.Key.Id ..." />
+            <marker date="1528272228130" expanded="true" signature="16042:17382" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="16069:17351" ph="  ..." />
+            <marker date="1528272228130" expanded="true" signature="16091:17334" ph="for dragon in unitOfWork.DragonRepository.All do ..." />
+            <marker date="1528272228130" expanded="true" signature="16338:17334" ph="for punch in _punch do ..." />
+            <marker date="1528272228130" expanded="true" signature="16460:16756" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="17065:17334" ph=" ({ id = gd.Key.Id ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Startup.fs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="11" />
+          <folding>
+            <marker date="1528187650553" expanded="false" signature="29:654" ph="..." />
+            <marker date="1528187650553" expanded="true" signature="672:2904" ph="private () = ..." />
+            <marker date="1528187650553" expanded="true" signature="692:801" ph=" (configuration: IConfiguration) as this = ..." />
+            <marker date="1528187650553" expanded="true" signature="963:2384" ph=" = ..." />
+            <marker date="1528187650553" expanded="true" signature="1698:2177" ph=" -&gt; ..." />
+            <marker date="1528187650553" expanded="true" signature="2566:2850" ph=" = ..." />
+            <marker date="1528187650553" expanded="true" signature="2725:2839" ph=" -&gt; ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Controllers/HerosController.fs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="36" />
+          <folding>
+            <marker date="1528183555650" expanded="false" signature="41:212" ph="..." />
+            <marker date="1528183555650" expanded="true" signature="365:395" ph=" = ..." />
+            <marker date="1528183555650" expanded="true" signature="491:530" ph=" = ..." />
+            <marker date="1528183555650" expanded="true" signature="606:648" ph=" = ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Controllers/DragonsController.fs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="8" lean-forward="false" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+          <folding>
+            <marker date="1526817541968" expanded="false" signature="41:185" ph="..." />
+            <marker date="1526817541968" expanded="true" signature="241:841" ph="(dragonService : IDragonService) = ..." />
+            <marker date="1526817541968" expanded="true" signature="343:375" ph=" = ..." />
+            <marker date="1526817541968" expanded="true" signature="430:467" ph=" = ..." />
+            <marker date="1526817541968" expanded="true" signature="534:569" ph=" =     ..." />
+            <marker date="1526817541968" expanded="true" signature="656:719" ph=" = ..." />
+            <marker date="1526817541968" expanded="true" signature="795:841" ph=" = ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Controllers/PunchesController.fs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="14" lean-forward="false" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+          <folding>
+            <marker date="1526817544525" expanded="false" signature="41:212" ph="..." />
+            <marker date="1526817544525" expanded="true" signature="268:485" ph="(punchService : IPunchService) = ..." />
+            <marker date="1526817544525" expanded="true" signature="431:485" ph=" = ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Requests/Requests.fs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Program.fs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Controllers/ValuesController.fs" />
+    <entry file="file://$PROJECT_DIR$/Model/Dragon.fs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2873">
+          <caret line="169" column="4" lean-forward="false" selection-start-line="169" selection-start-column="4" selection-end-line="169" selection-end-column="4" />
+          <folding>
+            <marker date="1528272228130" expanded="true" signature="0:113" ph="// Learn more about F## at http://fsharp.org ..." />
+            <marker date="1528272228130" expanded="true" signature="157:17382" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="170:311" ph="..." />
+            <marker date="1528272228130" expanded="true" signature="349:513" ph=" = ..." />
+            <marker date="1528272228130" expanded="true" signature="377:513" ph="  ..." />
+            <marker date="1528272228130" expanded="true" signature="547:626" ph=" = ..." />
+            <marker date="1528272228130" expanded="true" signature="575:626" ph=" ..." />
+            <marker date="1528272228130" expanded="true" signature="650:725" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="675:725" ph=" ..." />
+            <marker date="1528272228130" expanded="true" signature="811:851" ph="=  ..." />
+            <marker date="1528272228130" expanded="true" signature="879:1045" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="912:1045" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="945:1045" ph=" ..." />
+            <marker date="1528272228130" expanded="true" signature="1071:1937" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="1388:1499" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="1409:1498" ph="  ..." />
+            <marker date="1528272228130" expanded="true" signature="1427:1485" ph="for i in fromRange..toRange do ..." />
+            <marker date="1528272228130" expanded="true" signature="1541:1937" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="1566:1691" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="1760:1872" ph="  ..." />
+            <marker date="1528272228130" expanded="true" signature="1778:1859" ph="for i in 0..length do ..." />
+            <marker date="1528272228130" expanded="true" signature="1987:2711" ph="name : string, passwordHash: byte[], passwordSalt: byte[], attackModifier : int) =  ..." />
+            <marker date="1528272228130" expanded="true" signature="2171:2214" ph=" with ..." />
+            <marker date="1528272228130" expanded="true" signature="2487:2565" ph="  ..." />
+            <marker date="1528272228130" expanded="true" signature="2607:2711" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="2757:3329" ph="attack : int, heroId : Guid, dragonId : Guid) =  ..." />
+            <marker date="1528272228130" expanded="true" signature="2964:3007" ph=" with ..." />
+            <marker date="1528272228130" expanded="true" signature="3215:3329" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="3376:3849" ph="name : string, maxHitpoints : int) =  ..." />
+            <marker date="1528272228130" expanded="true" signature="3547:3590" ph=" with ..." />
+            <marker date="1528272228130" expanded="true" signature="3879:4134" ph="when 'T :&gt; IEntity&gt; =  ..." />
+            <marker date="1528272228130" expanded="true" signature="4167:5586" ph="when 'T :&gt; IEntity&gt;() =  ..." />
+            <marker date="1528272228130" expanded="true" signature="4328:4438" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="4597:5066" ph=" with ..." />
+            <marker date="1528272228130" expanded="true" signature="5616:5659" ph=") =  ..." />
+            <marker date="1528272228130" expanded="true" signature="5690:5734" ph=") =  ..." />
+            <marker date="1528272228130" expanded="true" signature="5766:5811" ph=") =  ..." />
+            <marker date="1528272228130" expanded="true" signature="5837:6165" ph=") =  ..." />
+            <marker date="1528272228130" expanded="true" signature="6219:6324" ph="=  ..." />
+            <marker date="1528272228130" expanded="true" signature="6230:6324" ph="{ id : Guid ..." />
+            <marker date="1528272228130" expanded="true" signature="6349:6477" ph="=  ..." />
+            <marker date="1528272228130" expanded="true" signature="6360:6477" ph="{ id : Guid ..." />
+            <marker date="1528272228130" expanded="true" signature="6515:6715" ph="=          ..." />
+            <marker date="1528272228130" expanded="true" signature="6754:6848" ph="=  ..." />
+            <marker date="1528272228130" expanded="true" signature="6888:7160" ph="=  ..." />
+            <marker date="1528272228130" expanded="true" signature="7198:7378" ph="=  ..." />
+            <marker date="1528272228130" expanded="true" signature="7407:7476" ph="=  ..." />
+            <marker date="1528272228130" expanded="true" signature="7506:7813" ph="=  ..." />
+            <marker date="1528272228130" expanded="true" signature="7840:9593" ph="heroServiceRepository : IHeroServiceRepository) =                  ..." />
+            <marker date="1528272228130" expanded="true" signature="7937:9593" ph=" with ..." />
+            <marker date="1528272228130" expanded="true" signature="8008:9391" ph=" = ..." />
+            <marker date="1528272228130" expanded="true" signature="8278:8545" ph=" =                     ..." />
+            <marker date="1528272228130" expanded="true" signature="8625:8914" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="8702:8914" ph=" (new Hero(createHero.name,  ..." />
+            <marker date="1528272228130" expanded="true" signature="8976:9216" ph=" = ..." />
+            <marker date="1528272228130" expanded="true" signature="9082:9216" ph=" ..." />
+            <marker date="1528272228130" expanded="true" signature="9522:9593" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="9621:10194" ph="punchServiceRepository : IPunchServiceRepository) =  ..." />
+            <marker date="1528272228130" expanded="true" signature="9705:10194" ph=" with ..." />
+            <marker date="1528272228130" expanded="true" signature="9765:10194" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="9884:10194" ph=" ..." />
+            <marker date="1528272228130" expanded="true" signature="9959:10194" ph=" -&gt;  ..." />
+            <marker date="1528272228130" expanded="true" signature="10223:10938" ph="dragonServiceRepository : IDragonServiceRepository) =  ..." />
+            <marker date="1528272228130" expanded="true" signature="10310:10938" ph=" with ..." />
+            <marker date="1528272228130" expanded="true" signature="10352:10504" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="10721:10809" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="10861:10938" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="10975:12071" ph="unitOfWork : UnitOfWork) =  ..." />
+            <marker date="1528272228130" expanded="true" signature="11080:12071" ph=" with ..." />
+            <marker date="1528272228130" expanded="true" signature="11138:11217" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="11457:12071" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="11484:12040" ph="  ..." />
+            <marker date="1528272228130" expanded="true" signature="11506:12023" ph="for punch in _unitOfWork.PunchRepository.All do ..." />
+            <marker date="1528272228130" expanded="true" signature="11833:12023" ph=" ({ id = punch.Id ..." />
+            <marker date="1528272228130" expanded="true" signature="12109:12485" ph="unitOfWork : UnitOfWork) =  ..." />
+            <marker date="1528272228130" expanded="true" signature="12215:12485" ph=" with ..." />
+            <marker date="1528272228130" expanded="true" signature="12275:12357" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="12524:17382" ph="unitOfWork : UnitOfWork) =  ..." />
+            <marker date="1528272228130" expanded="true" signature="12631:17382" ph=" with ..." />
+            <marker date="1528272228130" expanded="true" signature="12693:12778" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="12843:13461" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="12870:13430" ph="  ..." />
+            <marker date="1528272228130" expanded="true" signature="12892:13413" ph="for punch in _unitOfWork.PunchRepository.All do ..." />
+            <marker date="1528272228130" expanded="true" signature="13223:13413" ph=" ({ id = punch.Id ..." />
+            <marker date="1528272228130" expanded="true" signature="13511:14745" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="13538:14713" ph="  ..." />
+            <marker date="1528272228130" expanded="true" signature="13560:14696" ph="for dragon in unitOfWork.DragonRepository.All do ..." />
+            <marker date="1528272228130" expanded="true" signature="13807:14696" ph="for punch in _punch do ..." />
+            <marker date="1528272228130" expanded="true" signature="13986:14282" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="14421:14696" ph=" ({ id = gd.Key.Id ..." />
+            <marker date="1528272228130" expanded="true" signature="14790:15966" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="14817:15935" ph="  ..." />
+            <marker date="1528272228130" expanded="true" signature="14839:15918" ph="for dragon in unitOfWork.DragonRepository.All do ..." />
+            <marker date="1528272228130" expanded="true" signature="15086:15918" ph="for punch in _punch do ..." />
+            <marker date="1528272228130" expanded="true" signature="15208:15504" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="15643:15918" ph=" ({ id = gd.Key.Id ..." />
+            <marker date="1528272228130" expanded="true" signature="16042:17382" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="16069:17351" ph="  ..." />
+            <marker date="1528272228130" expanded="true" signature="16091:17334" ph="for dragon in unitOfWork.DragonRepository.All do ..." />
+            <marker date="1528272228130" expanded="true" signature="16338:17334" ph="for punch in _punch do ..." />
+            <marker date="1528272228130" expanded="true" signature="16460:16756" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="17065:17334" ph=" ({ id = gd.Key.Id ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Startup.fs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1528187650553" expanded="false" signature="29:654" ph="..." />
+            <marker date="1528187650553" expanded="true" signature="672:2904" ph="private () = ..." />
+            <marker date="1528187650553" expanded="true" signature="692:801" ph=" (configuration: IConfiguration) as this = ..." />
+            <marker date="1528187650553" expanded="true" signature="963:2384" ph=" = ..." />
+            <marker date="1528187650553" expanded="true" signature="1698:2177" ph=" -&gt; ..." />
+            <marker date="1528187650553" expanded="true" signature="2566:2850" ph=" = ..." />
+            <marker date="1528187650553" expanded="true" signature="2725:2839" ph=" -&gt; ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Model/Dragon.fs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3655">
+          <caret line="215" column="18" lean-forward="false" selection-start-line="215" selection-start-column="5" selection-end-line="215" selection-end-column="18" />
+          <folding>
+            <marker date="1528272228130" expanded="true" signature="0:113" ph="// Learn more about F## at http://fsharp.org ..." />
+            <marker date="1528272228130" expanded="true" signature="157:17382" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="170:311" ph="..." />
+            <marker date="1528272228130" expanded="true" signature="349:513" ph=" = ..." />
+            <marker date="1528272228130" expanded="true" signature="377:513" ph="  ..." />
+            <marker date="1528272228130" expanded="true" signature="547:626" ph=" = ..." />
+            <marker date="1528272228130" expanded="true" signature="575:626" ph=" ..." />
+            <marker date="1528272228130" expanded="true" signature="650:725" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="675:725" ph=" ..." />
+            <marker date="1528272228130" expanded="true" signature="811:851" ph="=  ..." />
+            <marker date="1528272228130" expanded="true" signature="879:1045" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="912:1045" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="945:1045" ph=" ..." />
+            <marker date="1528272228130" expanded="true" signature="1071:1937" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="1388:1499" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="1409:1498" ph="  ..." />
+            <marker date="1528272228130" expanded="true" signature="1427:1485" ph="for i in fromRange..toRange do ..." />
+            <marker date="1528272228130" expanded="true" signature="1541:1937" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="1566:1691" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="1760:1872" ph="  ..." />
+            <marker date="1528272228130" expanded="true" signature="1778:1859" ph="for i in 0..length do ..." />
+            <marker date="1528272228130" expanded="true" signature="1987:2711" ph="name : string, passwordHash: byte[], passwordSalt: byte[], attackModifier : int) =  ..." />
+            <marker date="1528272228130" expanded="true" signature="2171:2214" ph=" with ..." />
+            <marker date="1528272228130" expanded="true" signature="2487:2565" ph="  ..." />
+            <marker date="1528272228130" expanded="true" signature="2607:2711" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="2757:3329" ph="attack : int, heroId : Guid, dragonId : Guid) =  ..." />
+            <marker date="1528272228130" expanded="true" signature="2964:3007" ph=" with ..." />
+            <marker date="1528272228130" expanded="true" signature="3215:3329" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="3376:3849" ph="name : string, maxHitpoints : int) =  ..." />
+            <marker date="1528272228130" expanded="true" signature="3547:3590" ph=" with ..." />
+            <marker date="1528272228130" expanded="true" signature="3879:4134" ph="when 'T :&gt; IEntity&gt; =  ..." />
+            <marker date="1528272228130" expanded="true" signature="4167:5586" ph="when 'T :&gt; IEntity&gt;() =  ..." />
+            <marker date="1528272228130" expanded="true" signature="4328:4438" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="4597:5066" ph=" with ..." />
+            <marker date="1528272228130" expanded="true" signature="5616:5659" ph=") =  ..." />
+            <marker date="1528272228130" expanded="true" signature="5690:5734" ph=") =  ..." />
+            <marker date="1528272228130" expanded="true" signature="5766:5811" ph=") =  ..." />
+            <marker date="1528272228130" expanded="true" signature="5837:6165" ph=") =  ..." />
+            <marker date="1528272228130" expanded="true" signature="6219:6324" ph="=  ..." />
+            <marker date="1528272228130" expanded="true" signature="6230:6324" ph="{ id : Guid ..." />
+            <marker date="1528272228130" expanded="true" signature="6349:6477" ph="=  ..." />
+            <marker date="1528272228130" expanded="true" signature="6360:6477" ph="{ id : Guid ..." />
+            <marker date="1528272228130" expanded="true" signature="6515:6715" ph="=          ..." />
+            <marker date="1528272228130" expanded="true" signature="6754:6848" ph="=  ..." />
+            <marker date="1528272228130" expanded="true" signature="6888:7160" ph="=  ..." />
+            <marker date="1528272228130" expanded="true" signature="7198:7378" ph="=  ..." />
+            <marker date="1528272228130" expanded="true" signature="7407:7476" ph="=  ..." />
+            <marker date="1528272228130" expanded="true" signature="7506:7813" ph="=  ..." />
+            <marker date="1528272228130" expanded="true" signature="7840:9593" ph="heroServiceRepository : IHeroServiceRepository) =                  ..." />
+            <marker date="1528272228130" expanded="true" signature="7937:9593" ph=" with ..." />
+            <marker date="1528272228130" expanded="true" signature="8008:9391" ph=" = ..." />
+            <marker date="1528272228130" expanded="true" signature="8278:8545" ph=" =                     ..." />
+            <marker date="1528272228130" expanded="true" signature="8625:8914" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="8702:8914" ph=" (new Hero(createHero.name,  ..." />
+            <marker date="1528272228130" expanded="true" signature="8976:9216" ph=" = ..." />
+            <marker date="1528272228130" expanded="true" signature="9082:9216" ph=" ..." />
+            <marker date="1528272228130" expanded="true" signature="9522:9593" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="9621:10194" ph="punchServiceRepository : IPunchServiceRepository) =  ..." />
+            <marker date="1528272228130" expanded="true" signature="9705:10194" ph=" with ..." />
+            <marker date="1528272228130" expanded="true" signature="9765:10194" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="9884:10194" ph=" ..." />
+            <marker date="1528272228130" expanded="true" signature="9959:10194" ph=" -&gt;  ..." />
+            <marker date="1528272228130" expanded="true" signature="10223:10938" ph="dragonServiceRepository : IDragonServiceRepository) =  ..." />
+            <marker date="1528272228130" expanded="true" signature="10310:10938" ph=" with ..." />
+            <marker date="1528272228130" expanded="true" signature="10352:10504" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="10721:10809" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="10861:10938" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="10975:12071" ph="unitOfWork : UnitOfWork) =  ..." />
+            <marker date="1528272228130" expanded="true" signature="11080:12071" ph=" with ..." />
+            <marker date="1528272228130" expanded="true" signature="11138:11217" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="11457:12071" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="11484:12040" ph="  ..." />
+            <marker date="1528272228130" expanded="true" signature="11506:12023" ph="for punch in _unitOfWork.PunchRepository.All do ..." />
+            <marker date="1528272228130" expanded="true" signature="11833:12023" ph=" ({ id = punch.Id ..." />
+            <marker date="1528272228130" expanded="true" signature="12109:12485" ph="unitOfWork : UnitOfWork) =  ..." />
+            <marker date="1528272228130" expanded="true" signature="12215:12485" ph=" with ..." />
+            <marker date="1528272228130" expanded="true" signature="12275:12357" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="12524:17382" ph="unitOfWork : UnitOfWork) =  ..." />
+            <marker date="1528272228130" expanded="true" signature="12631:17382" ph=" with ..." />
+            <marker date="1528272228130" expanded="true" signature="12693:12778" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="12843:13461" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="12870:13430" ph="  ..." />
+            <marker date="1528272228130" expanded="true" signature="12892:13413" ph="for punch in _unitOfWork.PunchRepository.All do ..." />
+            <marker date="1528272228130" expanded="true" signature="13223:13413" ph=" ({ id = punch.Id ..." />
+            <marker date="1528272228130" expanded="true" signature="13511:14745" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="13538:14713" ph="  ..." />
+            <marker date="1528272228130" expanded="true" signature="13560:14696" ph="for dragon in unitOfWork.DragonRepository.All do ..." />
+            <marker date="1528272228130" expanded="true" signature="13807:14696" ph="for punch in _punch do ..." />
+            <marker date="1528272228130" expanded="true" signature="13986:14282" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="14421:14696" ph=" ({ id = gd.Key.Id ..." />
+            <marker date="1528272228130" expanded="true" signature="14790:15966" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="14817:15935" ph="  ..." />
+            <marker date="1528272228130" expanded="true" signature="14839:15918" ph="for dragon in unitOfWork.DragonRepository.All do ..." />
+            <marker date="1528272228130" expanded="true" signature="15086:15918" ph="for punch in _punch do ..." />
+            <marker date="1528272228130" expanded="true" signature="15208:15504" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="15643:15918" ph=" ({ id = gd.Key.Id ..." />
+            <marker date="1528272228130" expanded="true" signature="16042:17382" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="16069:17351" ph="  ..." />
+            <marker date="1528272228130" expanded="true" signature="16091:17334" ph="for dragon in unitOfWork.DragonRepository.All do ..." />
+            <marker date="1528272228130" expanded="true" signature="16338:17334" ph="for punch in _punch do ..." />
+            <marker date="1528272228130" expanded="true" signature="16460:16756" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="17065:17334" ph=" ({ id = gd.Key.Id ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Program.fs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Startup.fs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1528187650553" expanded="false" signature="29:654" ph="..." />
+            <marker date="1528187650553" expanded="true" signature="672:2904" ph="private () = ..." />
+            <marker date="1528187650553" expanded="true" signature="692:801" ph=" (configuration: IConfiguration) as this = ..." />
+            <marker date="1528187650553" expanded="true" signature="963:2384" ph=" = ..." />
+            <marker date="1528187650553" expanded="true" signature="1698:2177" ph=" -&gt; ..." />
+            <marker date="1528187650553" expanded="true" signature="2566:2850" ph=" = ..." />
+            <marker date="1528187650553" expanded="true" signature="2725:2839" ph=" -&gt; ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Model/Dragon.fs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3655">
+          <caret line="215" column="18" lean-forward="false" selection-start-line="215" selection-start-column="5" selection-end-line="215" selection-end-column="18" />
+          <folding>
+            <marker date="1528272228130" expanded="true" signature="0:113" ph="// Learn more about F## at http://fsharp.org ..." />
+            <marker date="1528272228130" expanded="true" signature="157:17382" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="170:311" ph="..." />
+            <marker date="1528272228130" expanded="true" signature="349:513" ph=" = ..." />
+            <marker date="1528272228130" expanded="true" signature="377:513" ph="  ..." />
+            <marker date="1528272228130" expanded="true" signature="547:626" ph=" = ..." />
+            <marker date="1528272228130" expanded="true" signature="575:626" ph=" ..." />
+            <marker date="1528272228130" expanded="true" signature="650:725" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="675:725" ph=" ..." />
+            <marker date="1528272228130" expanded="true" signature="811:851" ph="=  ..." />
+            <marker date="1528272228130" expanded="true" signature="879:1045" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="912:1045" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="945:1045" ph=" ..." />
+            <marker date="1528272228130" expanded="true" signature="1071:1937" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="1388:1499" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="1409:1498" ph="  ..." />
+            <marker date="1528272228130" expanded="true" signature="1427:1485" ph="for i in fromRange..toRange do ..." />
+            <marker date="1528272228130" expanded="true" signature="1541:1937" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="1566:1691" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="1760:1872" ph="  ..." />
+            <marker date="1528272228130" expanded="true" signature="1778:1859" ph="for i in 0..length do ..." />
+            <marker date="1528272228130" expanded="true" signature="1987:2711" ph="name : string, passwordHash: byte[], passwordSalt: byte[], attackModifier : int) =  ..." />
+            <marker date="1528272228130" expanded="true" signature="2171:2214" ph=" with ..." />
+            <marker date="1528272228130" expanded="true" signature="2487:2565" ph="  ..." />
+            <marker date="1528272228130" expanded="true" signature="2607:2711" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="2757:3329" ph="attack : int, heroId : Guid, dragonId : Guid) =  ..." />
+            <marker date="1528272228130" expanded="true" signature="2964:3007" ph=" with ..." />
+            <marker date="1528272228130" expanded="true" signature="3215:3329" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="3376:3849" ph="name : string, maxHitpoints : int) =  ..." />
+            <marker date="1528272228130" expanded="true" signature="3547:3590" ph=" with ..." />
+            <marker date="1528272228130" expanded="true" signature="3879:4134" ph="when 'T :&gt; IEntity&gt; =  ..." />
+            <marker date="1528272228130" expanded="true" signature="4167:5586" ph="when 'T :&gt; IEntity&gt;() =  ..." />
+            <marker date="1528272228130" expanded="true" signature="4328:4438" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="4597:5066" ph=" with ..." />
+            <marker date="1528272228130" expanded="true" signature="5616:5659" ph=") =  ..." />
+            <marker date="1528272228130" expanded="true" signature="5690:5734" ph=") =  ..." />
+            <marker date="1528272228130" expanded="true" signature="5766:5811" ph=") =  ..." />
+            <marker date="1528272228130" expanded="true" signature="5837:6165" ph=") =  ..." />
+            <marker date="1528272228130" expanded="true" signature="6219:6324" ph="=  ..." />
+            <marker date="1528272228130" expanded="true" signature="6230:6324" ph="{ id : Guid ..." />
+            <marker date="1528272228130" expanded="true" signature="6349:6477" ph="=  ..." />
+            <marker date="1528272228130" expanded="true" signature="6360:6477" ph="{ id : Guid ..." />
+            <marker date="1528272228130" expanded="true" signature="6515:6715" ph="=          ..." />
+            <marker date="1528272228130" expanded="true" signature="6754:6848" ph="=  ..." />
+            <marker date="1528272228130" expanded="true" signature="6888:7160" ph="=  ..." />
+            <marker date="1528272228130" expanded="true" signature="7198:7378" ph="=  ..." />
+            <marker date="1528272228130" expanded="true" signature="7407:7476" ph="=  ..." />
+            <marker date="1528272228130" expanded="true" signature="7506:7813" ph="=  ..." />
+            <marker date="1528272228130" expanded="true" signature="7840:9593" ph="heroServiceRepository : IHeroServiceRepository) =                  ..." />
+            <marker date="1528272228130" expanded="true" signature="7937:9593" ph=" with ..." />
+            <marker date="1528272228130" expanded="true" signature="8008:9391" ph=" = ..." />
+            <marker date="1528272228130" expanded="true" signature="8278:8545" ph=" =                     ..." />
+            <marker date="1528272228130" expanded="true" signature="8625:8914" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="8702:8914" ph=" (new Hero(createHero.name,  ..." />
+            <marker date="1528272228130" expanded="true" signature="8976:9216" ph=" = ..." />
+            <marker date="1528272228130" expanded="true" signature="9082:9216" ph=" ..." />
+            <marker date="1528272228130" expanded="true" signature="9522:9593" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="9621:10194" ph="punchServiceRepository : IPunchServiceRepository) =  ..." />
+            <marker date="1528272228130" expanded="true" signature="9705:10194" ph=" with ..." />
+            <marker date="1528272228130" expanded="true" signature="9765:10194" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="9884:10194" ph=" ..." />
+            <marker date="1528272228130" expanded="true" signature="9959:10194" ph=" -&gt;  ..." />
+            <marker date="1528272228130" expanded="true" signature="10223:10938" ph="dragonServiceRepository : IDragonServiceRepository) =  ..." />
+            <marker date="1528272228130" expanded="true" signature="10310:10938" ph=" with ..." />
+            <marker date="1528272228130" expanded="true" signature="10352:10504" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="10721:10809" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="10861:10938" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="10975:12071" ph="unitOfWork : UnitOfWork) =  ..." />
+            <marker date="1528272228130" expanded="true" signature="11080:12071" ph=" with ..." />
+            <marker date="1528272228130" expanded="true" signature="11138:11217" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="11457:12071" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="11484:12040" ph="  ..." />
+            <marker date="1528272228130" expanded="true" signature="11506:12023" ph="for punch in _unitOfWork.PunchRepository.All do ..." />
+            <marker date="1528272228130" expanded="true" signature="11833:12023" ph=" ({ id = punch.Id ..." />
+            <marker date="1528272228130" expanded="true" signature="12109:12485" ph="unitOfWork : UnitOfWork) =  ..." />
+            <marker date="1528272228130" expanded="true" signature="12215:12485" ph=" with ..." />
+            <marker date="1528272228130" expanded="true" signature="12275:12357" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="12524:17382" ph="unitOfWork : UnitOfWork) =  ..." />
+            <marker date="1528272228130" expanded="true" signature="12631:17382" ph=" with ..." />
+            <marker date="1528272228130" expanded="true" signature="12693:12778" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="12843:13461" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="12870:13430" ph="  ..." />
+            <marker date="1528272228130" expanded="true" signature="12892:13413" ph="for punch in _unitOfWork.PunchRepository.All do ..." />
+            <marker date="1528272228130" expanded="true" signature="13223:13413" ph=" ({ id = punch.Id ..." />
+            <marker date="1528272228130" expanded="true" signature="13511:14745" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="13538:14713" ph="  ..." />
+            <marker date="1528272228130" expanded="true" signature="13560:14696" ph="for dragon in unitOfWork.DragonRepository.All do ..." />
+            <marker date="1528272228130" expanded="true" signature="13807:14696" ph="for punch in _punch do ..." />
+            <marker date="1528272228130" expanded="true" signature="13986:14282" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="14421:14696" ph=" ({ id = gd.Key.Id ..." />
+            <marker date="1528272228130" expanded="true" signature="14790:15966" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="14817:15935" ph="  ..." />
+            <marker date="1528272228130" expanded="true" signature="14839:15918" ph="for dragon in unitOfWork.DragonRepository.All do ..." />
+            <marker date="1528272228130" expanded="true" signature="15086:15918" ph="for punch in _punch do ..." />
+            <marker date="1528272228130" expanded="true" signature="15208:15504" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="15643:15918" ph=" ({ id = gd.Key.Id ..." />
+            <marker date="1528272228130" expanded="true" signature="16042:17382" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="16069:17351" ph="  ..." />
+            <marker date="1528272228130" expanded="true" signature="16091:17334" ph="for dragon in unitOfWork.DragonRepository.All do ..." />
+            <marker date="1528272228130" expanded="true" signature="16338:17334" ph="for punch in _punch do ..." />
+            <marker date="1528272228130" expanded="true" signature="16460:16756" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="17065:17334" ph=" ({ id = gd.Key.Id ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Program.fs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Controllers/ValuesController.fs" />
+    <entry file="file://$PROJECT_DIR$/Controllers/HeroController.cs" />
+    <entry file="file://$PROJECT_DIR$/Controllers/ValuesController.fs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/53941A9F-5A70-4687-9000-8A2F1A6AC6A6/87/df0b55df/JwtBearerDefaults.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="24" lean-forward="false" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/882C7DDC-3607-4EF5-A584-61262F32B442/74/166f4fa9/MvcOptions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1768">
+          <caret line="15" column="10" lean-forward="true" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/70b50e06-bda0-4eee-95db-003d197cf253/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/59964CAE-904C-F4DA-A745-0383AE4C9659/56/06224073/Operators.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="887" column="20" lean-forward="false" selection-start-line="887" selection-start-column="20" selection-end-line="887" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Program.fs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Requests/CreateHeroRequest.fs" />
+    <entry file="file://$PROJECT_DIR$/Controllers/DragonsController.fs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="32" column="27" lean-forward="false" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="27" />
+          <folding>
+            <marker date="1526817541968" expanded="false" signature="41:185" ph="..." />
+            <marker date="1526817541968" expanded="true" signature="241:841" ph="(dragonService : IDragonService) = ..." />
+            <marker date="1526817541968" expanded="true" signature="343:375" ph=" = ..." />
+            <marker date="1526817541968" expanded="true" signature="430:467" ph=" = ..." />
+            <marker date="1526817541968" expanded="true" signature="534:569" ph=" =     ..." />
+            <marker date="1526817541968" expanded="true" signature="656:719" ph=" = ..." />
+            <marker date="1526817541968" expanded="true" signature="795:841" ph=" = ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Model/Type.fs" />
+    <entry file="file://$PROJECT_DIR$/Controllers/PunchesController.fs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="19" column="3" lean-forward="false" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+          <folding>
+            <marker date="1526817544525" expanded="false" signature="41:212" ph="..." />
+            <marker date="1526817544525" expanded="true" signature="268:485" ph="(punchService : IPunchService) = ..." />
+            <marker date="1526817544525" expanded="true" signature="431:485" ph=" = ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Startup.fs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="35" column="35" lean-forward="false" selection-start-line="35" selection-start-column="35" selection-end-line="35" selection-end-column="35" />
+          <folding>
+            <marker date="1528187650553" expanded="false" signature="29:654" ph="..." />
+            <marker date="1528187650553" expanded="true" signature="672:2904" ph="private () = ..." />
+            <marker date="1528187650553" expanded="true" signature="692:801" ph=" (configuration: IConfiguration) as this = ..." />
+            <marker date="1528187650553" expanded="true" signature="963:2384" ph=" = ..." />
+            <marker date="1528187650553" expanded="true" signature="1698:2177" ph=" -&gt; ..." />
+            <marker date="1528187650553" expanded="true" signature="2566:2850" ph=" = ..." />
+            <marker date="1528187650553" expanded="true" signature="2725:2839" ph=" -&gt; ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/899ABC88-C3F1-4C7D-B7BA-444AD3BDFC76/27/e15c06eb/ExecutionContextSwitcher.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Controllers/HerosController.fs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="29" column="14" lean-forward="false" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
+          <folding>
+            <marker date="1528183555650" expanded="false" signature="41:212" ph="..." />
+            <marker date="1528183555650" expanded="true" signature="365:395" ph=" = ..." />
+            <marker date="1528183555650" expanded="true" signature="491:530" ph=" = ..." />
+            <marker date="1528183555650" expanded="true" signature="606:648" ph=" = ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appsettings.Development.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Model/Crypto.fs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="116" lean-forward="false" selection-start-line="12" selection-start-column="116" selection-end-line="12" selection-end-column="116" />
+          <folding>
+            <marker date="1528185861704" expanded="true" signature="43:427" ph=" =  ..." />
+            <marker date="1528185861704" expanded="true" signature="56:141" ph="..." />
+            <marker date="1528185861704" expanded="true" signature="167:305" ph=" =  ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Model/Types.fs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="8" lean-forward="false" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+          <folding>
+            <marker date="1528192286057" expanded="true" signature="46:90" ph=" =  ..." />
+            <marker date="1528192286057" expanded="true" signature="54:90" ph="| Ok of 'a ..." />
+            <marker date="1528192286057" expanded="true" signature="107:369" ph=" =  ..." />
+            <marker date="1528192286057" expanded="true" signature="122:153" ph="=  ..." />
+            <marker date="1528192286057" expanded="true" signature="189:333" ph=" =  ..." />
+            <marker date="1528192286057" expanded="true" signature="280:333" ph=" then None ..." />
+            <marker date="1528192286057" expanded="true" signature="405:440" ph="=  ..." />
+            <marker date="1528192286057" expanded="true" signature="476:615" ph=" =  ..." />
+            <marker date="1528192286057" expanded="true" signature="559:615" ph=" then None ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Requests/Requests.fs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" column="1" lean-forward="false" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+          <folding>
+            <marker date="1528271933688" expanded="false" signature="38:104" ph="..." />
+            <marker date="1528271933688" expanded="true" signature="130:171" ph="= { ..." />
+            <marker date="1528271933688" expanded="true" signature="196:267" ph="= { ..." />
+            <marker date="1528271933688" expanded="true" signature="291:334" ph="= { ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Responses/Responses.fs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="22" lean-forward="false" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="22" />
+          <folding>
+            <marker date="1528272146870" expanded="true" signature="69:114" ph="= { ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Model/Dragon.fs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="203" column="4" lean-forward="false" selection-start-line="203" selection-start-column="4" selection-end-line="203" selection-end-column="4" />
+          <folding>
+            <marker date="1528272228130" expanded="true" signature="0:113" ph="// Learn more about F## at http://fsharp.org ..." />
+            <marker date="1528272228130" expanded="true" signature="157:17382" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="170:311" ph="..." />
+            <marker date="1528272228130" expanded="true" signature="349:513" ph=" = ..." />
+            <marker date="1528272228130" expanded="true" signature="377:513" ph="  ..." />
+            <marker date="1528272228130" expanded="true" signature="547:626" ph=" = ..." />
+            <marker date="1528272228130" expanded="true" signature="575:626" ph=" ..." />
+            <marker date="1528272228130" expanded="true" signature="650:725" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="675:725" ph=" ..." />
+            <marker date="1528272228130" expanded="true" signature="811:851" ph="=  ..." />
+            <marker date="1528272228130" expanded="true" signature="879:1045" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="912:1045" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="945:1045" ph=" ..." />
+            <marker date="1528272228130" expanded="true" signature="1071:1937" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="1388:1499" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="1409:1498" ph="  ..." />
+            <marker date="1528272228130" expanded="true" signature="1427:1485" ph="for i in fromRange..toRange do ..." />
+            <marker date="1528272228130" expanded="true" signature="1541:1937" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="1566:1691" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="1760:1872" ph="  ..." />
+            <marker date="1528272228130" expanded="true" signature="1778:1859" ph="for i in 0..length do ..." />
+            <marker date="1528272228130" expanded="true" signature="1987:2711" ph="name : string, passwordHash: byte[], passwordSalt: byte[], attackModifier : int) =  ..." />
+            <marker date="1528272228130" expanded="true" signature="2171:2214" ph=" with ..." />
+            <marker date="1528272228130" expanded="true" signature="2487:2565" ph="  ..." />
+            <marker date="1528272228130" expanded="true" signature="2607:2711" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="2757:3329" ph="attack : int, heroId : Guid, dragonId : Guid) =  ..." />
+            <marker date="1528272228130" expanded="true" signature="2964:3007" ph=" with ..." />
+            <marker date="1528272228130" expanded="true" signature="3215:3329" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="3376:3849" ph="name : string, maxHitpoints : int) =  ..." />
+            <marker date="1528272228130" expanded="true" signature="3547:3590" ph=" with ..." />
+            <marker date="1528272228130" expanded="true" signature="3879:4134" ph="when 'T :&gt; IEntity&gt; =  ..." />
+            <marker date="1528272228130" expanded="true" signature="4167:5586" ph="when 'T :&gt; IEntity&gt;() =  ..." />
+            <marker date="1528272228130" expanded="true" signature="4328:4438" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="4597:5066" ph=" with ..." />
+            <marker date="1528272228130" expanded="true" signature="5616:5659" ph=") =  ..." />
+            <marker date="1528272228130" expanded="true" signature="5690:5734" ph=") =  ..." />
+            <marker date="1528272228130" expanded="true" signature="5766:5811" ph=") =  ..." />
+            <marker date="1528272228130" expanded="true" signature="5837:6165" ph=") =  ..." />
+            <marker date="1528272228130" expanded="true" signature="6219:6324" ph="=  ..." />
+            <marker date="1528272228130" expanded="true" signature="6230:6324" ph="{ id : Guid ..." />
+            <marker date="1528272228130" expanded="true" signature="6349:6477" ph="=  ..." />
+            <marker date="1528272228130" expanded="true" signature="6360:6477" ph="{ id : Guid ..." />
+            <marker date="1528272228130" expanded="true" signature="6515:6715" ph="=          ..." />
+            <marker date="1528272228130" expanded="true" signature="6754:6848" ph="=  ..." />
+            <marker date="1528272228130" expanded="true" signature="6888:7160" ph="=  ..." />
+            <marker date="1528272228130" expanded="true" signature="7198:7378" ph="=  ..." />
+            <marker date="1528272228130" expanded="true" signature="7407:7476" ph="=  ..." />
+            <marker date="1528272228130" expanded="true" signature="7506:7813" ph="=  ..." />
+            <marker date="1528272228130" expanded="true" signature="7840:9593" ph="heroServiceRepository : IHeroServiceRepository) =                  ..." />
+            <marker date="1528272228130" expanded="true" signature="7937:9593" ph=" with ..." />
+            <marker date="1528272228130" expanded="true" signature="8008:9391" ph=" = ..." />
+            <marker date="1528272228130" expanded="true" signature="8278:8545" ph=" =                     ..." />
+            <marker date="1528272228130" expanded="true" signature="8625:8914" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="8702:8914" ph=" (new Hero(createHero.name,  ..." />
+            <marker date="1528272228130" expanded="true" signature="8976:9216" ph=" = ..." />
+            <marker date="1528272228130" expanded="true" signature="9082:9216" ph=" ..." />
+            <marker date="1528272228130" expanded="true" signature="9522:9593" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="9621:10194" ph="punchServiceRepository : IPunchServiceRepository) =  ..." />
+            <marker date="1528272228130" expanded="true" signature="9705:10194" ph=" with ..." />
+            <marker date="1528272228130" expanded="true" signature="9765:10194" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="9884:10194" ph=" ..." />
+            <marker date="1528272228130" expanded="true" signature="9959:10194" ph=" -&gt;  ..." />
+            <marker date="1528272228130" expanded="true" signature="10223:10938" ph="dragonServiceRepository : IDragonServiceRepository) =  ..." />
+            <marker date="1528272228130" expanded="true" signature="10310:10938" ph=" with ..." />
+            <marker date="1528272228130" expanded="true" signature="10352:10504" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="10721:10809" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="10861:10938" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="10975:12071" ph="unitOfWork : UnitOfWork) =  ..." />
+            <marker date="1528272228130" expanded="true" signature="11080:12071" ph=" with ..." />
+            <marker date="1528272228130" expanded="true" signature="11138:11217" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="11457:12071" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="11484:12040" ph="  ..." />
+            <marker date="1528272228130" expanded="true" signature="11506:12023" ph="for punch in _unitOfWork.PunchRepository.All do ..." />
+            <marker date="1528272228130" expanded="true" signature="11833:12023" ph=" ({ id = punch.Id ..." />
+            <marker date="1528272228130" expanded="true" signature="12109:12485" ph="unitOfWork : UnitOfWork) =  ..." />
+            <marker date="1528272228130" expanded="true" signature="12215:12485" ph=" with ..." />
+            <marker date="1528272228130" expanded="true" signature="12275:12357" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="12524:17382" ph="unitOfWork : UnitOfWork) =  ..." />
+            <marker date="1528272228130" expanded="true" signature="12631:17382" ph=" with ..." />
+            <marker date="1528272228130" expanded="true" signature="12693:12778" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="12843:13461" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="12870:13430" ph="  ..." />
+            <marker date="1528272228130" expanded="true" signature="12892:13413" ph="for punch in _unitOfWork.PunchRepository.All do ..." />
+            <marker date="1528272228130" expanded="true" signature="13223:13413" ph=" ({ id = punch.Id ..." />
+            <marker date="1528272228130" expanded="true" signature="13511:14745" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="13538:14713" ph="  ..." />
+            <marker date="1528272228130" expanded="true" signature="13560:14696" ph="for dragon in unitOfWork.DragonRepository.All do ..." />
+            <marker date="1528272228130" expanded="true" signature="13807:14696" ph="for punch in _punch do ..." />
+            <marker date="1528272228130" expanded="true" signature="13986:14282" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="14421:14696" ph=" ({ id = gd.Key.Id ..." />
+            <marker date="1528272228130" expanded="true" signature="14790:15966" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="14817:15935" ph="  ..." />
+            <marker date="1528272228130" expanded="true" signature="14839:15918" ph="for dragon in unitOfWork.DragonRepository.All do ..." />
+            <marker date="1528272228130" expanded="true" signature="15086:15918" ph="for punch in _punch do ..." />
+            <marker date="1528272228130" expanded="true" signature="15208:15504" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="15643:15918" ph=" ({ id = gd.Key.Id ..." />
+            <marker date="1528272228130" expanded="true" signature="16042:17382" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="16069:17351" ph="  ..." />
+            <marker date="1528272228130" expanded="true" signature="16091:17334" ph="for dragon in unitOfWork.DragonRepository.All do ..." />
+            <marker date="1528272228130" expanded="true" signature="16338:17334" ph="for punch in _punch do ..." />
+            <marker date="1528272228130" expanded="true" signature="16460:16756" ph=" =  ..." />
+            <marker date="1528272228130" expanded="true" signature="17065:17334" ph=" ({ id = gd.Key.Id ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Model/Auth.fs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="56" column="12" lean-forward="false" selection-start-line="56" selection-start-column="12" selection-end-line="56" selection-end-column="12" />
+          <folding>
+            <marker date="1528191859558" expanded="true" signature="49:2399" ph=" = ..." />
+            <marker date="1528191859558" expanded="false" signature="65:221" ph="..." />
+            <marker date="1528191859558" expanded="true" signature="245:568" ph="= {                             ..." />
+            <marker date="1528191859558" expanded="true" signature="601:681" ph="= { ..." />
+            <marker date="1528191859558" expanded="true" signature="731:1160" ph=" = ..." />
+            <marker date="1528191859558" expanded="true" signature="796:1159" ph="tokenInfo.issuer,  ..." />
+            <marker date="1528191859558" expanded="true" signature="1270:1753" ph=" = ..." />
+            <marker date="1528191859558" expanded="true" signature="1336:1752" ph="tokenInfo.issuer,  ..." />
+            <marker date="1528191859558" expanded="true" signature="1828:2399" ph=" = ..." />
+            <marker date="1528191859558" expanded="true" signature="1939:2399" ph=" ..." />
+            <marker date="1528191859558" expanded="true" signature="1960:2204" ph=" -&gt; { ..." />
+            <marker date="1528191859558" expanded="true" signature="2223:2399" ph=" -&gt;   { ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
